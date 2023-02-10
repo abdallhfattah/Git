@@ -1,4 +1,4 @@
-# Git Elzero Webschool
+# Git 
 Understanding Fundamentals of git 
 
 ### Git notes
